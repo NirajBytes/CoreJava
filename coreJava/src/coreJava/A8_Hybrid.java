@@ -1,5 +1,5 @@
 package coreJava;
-//hybrid
+//hybrid inheritance
 interface Animal5 {
 	void eat();
 }
